@@ -9,8 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@hookform/resolvers": "^4.1.2",
+    "@mui/material": "^6.4.5",
+    "next": "14.2.24",
+    "nodemailer": "^6.10.0",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.24"
+    "react-hook-form": "^7.54.2",
+    "react-toastify": "^11.0.5",
+    "yup": "^1.6.1"
   }
 }
